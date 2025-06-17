@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>История Visual Studio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Visual Studio</h1>
+    <nav>
+        <a href="index.html">Главная</a>
+        <a href="about.html">История</a>
+        <a href="features.html">Возможности</a>
+        <a href="install.html">Установка</a>
+        <a href="tips.html">Советы</a>
+        <a href="contact.html">Контакты</a>
+    </nav>
+</header>
+
+<main>
+    <h2>История создания Visual Studio</h2>
+    <p>Visual Studio впервые была выпущена в 1997 году как единая интегрированная среда разработки (IDE) для различных языков программирования от Microsoft. Сегодня это одна из самых популярных сред разработки в мире.</p>
+</main>
+
+<footer>
+    <p>© 2025 Visual Studio Info</p>
+</footer>
+</body>
+</html>
